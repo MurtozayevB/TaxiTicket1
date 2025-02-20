@@ -1,0 +1,2301 @@
+[
+  {
+    "model": "transport_management.Station",
+    "pk": 1,
+    "fields": {
+      "name": "Amudaryo tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 2,
+    "fields": {
+      "name": "Beruniy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 3,
+    "fields": {
+      "name": "Kegayli tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 4,
+    "fields": {
+      "name": "Qonliko\u2018l tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 5,
+    "fields": {
+      "name": "Qorao\u2018zak tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 6,
+    "fields": {
+      "name": "Qo\u2018ng\u2018irot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 7,
+    "fields": {
+      "name": "Mo\u2018ynoq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 8,
+    "fields": {
+      "name": "Nukus tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 9,
+    "fields": {
+      "name": "Nukus shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 10,
+    "fields": {
+      "name": "Taxtako\u2018pir tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 11,
+    "fields": {
+      "name": "To\u2018rtko\u2018l tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 12,
+    "fields": {
+      "name": "Xo\u2018jayli tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 13,
+    "fields": {
+      "name": "Chimboy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 14,
+    "fields": {
+      "name": "Shumanay tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 15,
+    "fields": {
+      "name": "Ellikqal\u2018a tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 16,
+    "fields": {
+      "name": "Andijon shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 17,
+    "fields": {
+      "name": "Andijon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 18,
+    "fields": {
+      "name": "Asaka tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 19,
+    "fields": {
+      "name": "Baliqchi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 20,
+    "fields": {
+      "name": "Buloqboshi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 21,
+    "fields": {
+      "name": "Bo\u2018z tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 22,
+    "fields": {
+      "name": "Jalaquduq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 23,
+    "fields": {
+      "name": "Izbosgan tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 24,
+    "fields": {
+      "name": "Qorasuv shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 25,
+    "fields": {
+      "name": "Qo\u2018rg\u2018ontepa tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 26,
+    "fields": {
+      "name": "Marhamat tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 27,
+    "fields": {
+      "name": "Oltinko\u2018l tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 28,
+    "fields": {
+      "name": "Paxtaobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 29,
+    "fields": {
+      "name": "Ulug\u2018nor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 30,
+    "fields": {
+      "name": "Xonabod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 31,
+    "fields": {
+      "name": "Xo\u2018jaobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 32,
+    "fields": {
+      "name": "Shahrixon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 33,
+    "fields": {
+      "name": "Buxoro shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 34,
+    "fields": {
+      "name": "Buxoro tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 35,
+    "fields": {
+      "name": "Vobkent tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 36,
+    "fields": {
+      "name": "G\u2018ijduvon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 37,
+    "fields": {
+      "name": "Jondor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 38,
+    "fields": {
+      "name": "Kogon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 39,
+    "fields": {
+      "name": "Kogon shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 40,
+    "fields": {
+      "name": "Qorako\u2018l tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 41,
+    "fields": {
+      "name": "Qorovulbozor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 42,
+    "fields": {
+      "name": "Olot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 43,
+    "fields": {
+      "name": "Peshku tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 44,
+    "fields": {
+      "name": "Romitan tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 45,
+    "fields": {
+      "name": "Shofirkon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 3
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 46,
+    "fields": {
+      "name": "Arnasoy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 47,
+    "fields": {
+      "name": "Baxmal tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 48,
+    "fields": {
+      "name": "G\u2018allaorol tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 49,
+    "fields": {
+      "name": "Do\u2018stlik tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 50,
+    "fields": {
+      "name": "Sh.Rashidov tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 51,
+    "fields": {
+      "name": "Jizzax shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 52,
+    "fields": {
+      "name": "Zarbdor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 53,
+    "fields": {
+      "name": "Zafarobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 54,
+    "fields": {
+      "name": "Zomin tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 55,
+    "fields": {
+      "name": "Mirzacho\u2018l tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 56,
+    "fields": {
+      "name": "Paxtakor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 57,
+    "fields": {
+      "name": "Forish tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 58,
+    "fields": {
+      "name": "Yangiobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 4
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 59,
+    "fields": {
+      "name": "G\u2018uzor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 60,
+    "fields": {
+      "name": "Dehqonobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 61,
+    "fields": {
+      "name": "Qamashi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 62,
+    "fields": {
+      "name": "Qarshi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 63,
+    "fields": {
+      "name": "Qarshi shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 64,
+    "fields": {
+      "name": "Kasbi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 65,
+    "fields": {
+      "name": "Kitob tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 66,
+    "fields": {
+      "name": "Koson tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 67,
+    "fields": {
+      "name": "Mirishkor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 68,
+    "fields": {
+      "name": "Muborak tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 69,
+    "fields": {
+      "name": "Nishon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 70,
+    "fields": {
+      "name": "Chiroqchi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 71,
+    "fields": {
+      "name": "Shahrisabz tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 72,
+    "fields": {
+      "name": "Yakkabog\u2018 tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 73,
+    "fields": {
+      "name": "Zarafshon shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 74,
+    "fields": {
+      "name": "Karmana tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 75,
+    "fields": {
+      "name": "Qiziltepa tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 76,
+    "fields": {
+      "name": "Konimex tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 77,
+    "fields": {
+      "name": "Navbahor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 78,
+    "fields": {
+      "name": "Navoiy shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 79,
+    "fields": {
+      "name": "Nurota tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 80,
+    "fields": {
+      "name": "Tomdi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 81,
+    "fields": {
+      "name": "Uchquduq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 82,
+    "fields": {
+      "name": "Xatirchi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 83,
+    "fields": {
+      "name": "Kosonsoy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 84,
+    "fields": {
+      "name": "Mingbuloq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 85,
+    "fields": {
+      "name": "Namangan tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 86,
+    "fields": {
+      "name": "Namangan shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 87,
+    "fields": {
+      "name": "Norin tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 88,
+    "fields": {
+      "name": "Pop tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 89,
+    "fields": {
+      "name": "To\u2018raqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 90,
+    "fields": {
+      "name": "Uychi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 91,
+    "fields": {
+      "name": "Uchqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 92,
+    "fields": {
+      "name": "Chortoq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 93,
+    "fields": {
+      "name": "Chust tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 94,
+    "fields": {
+      "name": "Yangiqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 95,
+    "fields": {
+      "name": "Bulung\u2018ur tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 96,
+    "fields": {
+      "name": "Jomboy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 97,
+    "fields": {
+      "name": "Ishtixon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 98,
+    "fields": {
+      "name": "Kattaqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 99,
+    "fields": {
+      "name": "Kattaqo\u2018rg\u2018on shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 100,
+    "fields": {
+      "name": "Qo\u2018shrabot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 101,
+    "fields": {
+      "name": "Narpay tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 102,
+    "fields": {
+      "name": "Nurabod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 103,
+    "fields": {
+      "name": "Oqdaryo tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 104,
+    "fields": {
+      "name": "Payariq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 105,
+    "fields": {
+      "name": "Pastarg\u2018om tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 106,
+    "fields": {
+      "name": "Paxtachi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 107,
+    "fields": {
+      "name": "Samarqand tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 108,
+    "fields": {
+      "name": "Samarqand shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 109,
+    "fields": {
+      "name": "Toyloq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 110,
+    "fields": {
+      "name": "Urgut tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 8
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 111,
+    "fields": {
+      "name": "Angor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 112,
+    "fields": {
+      "name": "Boysun tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 113,
+    "fields": {
+      "name": "Denov tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 114,
+    "fields": {
+      "name": "Jarqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 115,
+    "fields": {
+      "name": "Qiziriq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 116,
+    "fields": {
+      "name": "Qo\u2018mqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 117,
+    "fields": {
+      "name": "Muzrabot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 118,
+    "fields": {
+      "name": "Oltinsoy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 119,
+    "fields": {
+      "name": "Sariosiyo tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 120,
+    "fields": {
+      "name": "Termiz tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 121,
+    "fields": {
+      "name": "Termiz shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 122,
+    "fields": {
+      "name": "Uzun tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 123,
+    "fields": {
+      "name": "Sherobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 124,
+    "fields": {
+      "name": "Sho\u2018rchi tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 125,
+    "fields": {
+      "name": "Boyovut tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 126,
+    "fields": {
+      "name": "Guliston tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 127,
+    "fields": {
+      "name": "Guliston shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 128,
+    "fields": {
+      "name": "Mirzaobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 129,
+    "fields": {
+      "name": "Oqoltin tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 130,
+    "fields": {
+      "name": "Sayxunobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 131,
+    "fields": {
+      "name": "Sardoba tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 132,
+    "fields": {
+      "name": "Sirdaryo tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 133,
+    "fields": {
+      "name": "Xavos tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 134,
+    "fields": {
+      "name": "Shirin shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 135,
+    "fields": {
+      "name": "Yangiyer shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 10
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 136,
+    "fields": {
+      "name": "Angiren shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 137,
+    "fields": {
+      "name": "Bekabod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 138,
+    "fields": {
+      "name": "Bekabod shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 139,
+    "fields": {
+      "name": "Bo\u2018ka tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 140,
+    "fields": {
+      "name": "Bo\u2018stonliq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 141,
+    "fields": {
+      "name": "Zangiota tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 142,
+    "fields": {
+      "name": "Qibray tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 143,
+    "fields": {
+      "name": "Quyichirchiq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 144,
+    "fields": {
+      "name": "Oqqo\u2018rg\u2018on tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 145,
+    "fields": {
+      "name": "Olmaliq shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 146,
+    "fields": {
+      "name": "Ohangaron tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 147,
+    "fields": {
+      "name": "Parkent tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 148,
+    "fields": {
+      "name": "Piskent tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 149,
+    "fields": {
+      "name": "O\u2018rtachirchiq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 150,
+    "fields": {
+      "name": "Chinoz tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 151,
+    "fields": {
+      "name": "Chirchiq shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 152,
+    "fields": {
+      "name": "Yuqorichirchiq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 153,
+    "fields": {
+      "name": "Yangiyo\u2018l tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 154,
+    "fields": {
+      "name": "Beshariq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 155,
+    "fields": {
+      "name": "Bog\u2018dod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 156,
+    "fields": {
+      "name": "Buvayda tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 157,
+    "fields": {
+      "name": "Dang\u2018ara tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 158,
+    "fields": {
+      "name": "Yozyovon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 159,
+    "fields": {
+      "name": "Quva tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 160,
+    "fields": {
+      "name": "Quvasoy shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 161,
+    "fields": {
+      "name": "Qo\u2018qon shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 162,
+    "fields": {
+      "name": "Qo\u2018shtepa tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 163,
+    "fields": {
+      "name": "Marg\u2018ilon shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 164,
+    "fields": {
+      "name": "Oltiariq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 165,
+    "fields": {
+      "name": "Rishton tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 166,
+    "fields": {
+      "name": "So\u2018x tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 167,
+    "fields": {
+      "name": "Toshloq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 168,
+    "fields": {
+      "name": "Uchko\u2018prik tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 169,
+    "fields": {
+      "name": "O\u2018zbekiston tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 170,
+    "fields": {
+      "name": "Farg\u2018ona tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 171,
+    "fields": {
+      "name": "Farg\u2018ona shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 172,
+    "fields": {
+      "name": "Furqat tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 12
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 173,
+    "fields": {
+      "name": "Bog\u2018ot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 174,
+    "fields": {
+      "name": "Gurlan tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 175,
+    "fields": {
+      "name": "Qo\u2018shko\u2018pir tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 176,
+    "fields": {
+      "name": "Urganch tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 177,
+    "fields": {
+      "name": "Urganch shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 178,
+    "fields": {
+      "name": "Xiva tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 179,
+    "fields": {
+      "name": "Xazarasp tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 180,
+    "fields": {
+      "name": "Xonqa tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 181,
+    "fields": {
+      "name": "Shavot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 182,
+    "fields": {
+      "name": "Yangiariq tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 183,
+    "fields": {
+      "name": "Yangibozor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 184,
+    "fields": {
+      "name": "Bektimer tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 185,
+    "fields": {
+      "name": "Mirzo Ulug'bek tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 186,
+    "fields": {
+      "name": "Mirobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 187,
+    "fields": {
+      "name": "Olmazor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 188,
+    "fields": {
+      "name": "Sirg'ali tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 189,
+    "fields": {
+      "name": "Uchtepa tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 190,
+    "fields": {
+      "name": "Yashnobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 191,
+    "fields": {
+      "name": "Chilonzor tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 192,
+    "fields": {
+      "name": "Shayxontohur tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 193,
+    "fields": {
+      "name": "Yunusobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 194,
+    "fields": {
+      "name": "Yakkasaroy tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 195,
+    "fields": {
+      "name": "Taxiatosh shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 196,
+    "fields": {
+      "name": "Asaka shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 2
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 197,
+    "fields": {
+      "name": "Bandixon tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 9
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 198,
+    "fields": {
+      "name": "Ohangaron shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 199,
+    "fields": {
+      "name": "Yangiyo\u2018l shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 200,
+    "fields": {
+      "name": "Toshkent tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 11
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 201,
+    "fields": {
+      "name": "Xiva shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 202,
+    "fields": {
+      "name": "Do'stlik shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 203,
+    "fields": {
+      "name": "Yangihayot tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 14
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 204,
+    "fields": {
+      "name": "Tuproqqala tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 13
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 205,
+    "fields": {
+      "name": "Davlatobod tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 7
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 206,
+    "fields": {
+      "name": "G\u2018ozg\u2018on shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 6
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 207,
+    "fields": {
+      "name": "Bo\u2018zatov tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 1
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 208,
+    "fields": {
+      "name": "Shahrisabz shahri",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  },
+  {
+    "model": "transport_management.Station",
+    "pk": 209,
+    "fields": {
+      "name": "Ko\u2018kdala tumani",
+      "latitude": 32.555555,
+      "longitude": 64.555555,
+      "region_id": 5
+
+    }
+  }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "model": "transport_management.Region",
+        "pk": 1,
+        "fields": {
+            "name": "Toshkent"
+        }
+    },
+    {
+        "model": "transport_management.Region",
+        "pk": 2,
+        "fields": {
+            "name": "Samarqand"
+        }
+    },
+    {
+        "model": "transport_management.Station",
+        "pk": 1,
+        "fields": {
+            "name": "Olmazor",
+            "latitude": 32.123456,
+            "longitude": 63.123456,
+            "region": 1
+        }
+    },
+    {
+        "model": "transport_management.Station",
+        "pk": 2,
+        "fields": {
+            "name": "Ulug’bek",
+            "latitude": 32.123456,
+            "longitude": 63.123456,
+            "region": 2
+        }
+    },
+    {
+        "model": "transport_management.Car",
+        "pk": 1,
+        "fields": {
+            "color": "black",
+            "number": "01 AA 243 B",
+            "seats_count": 4
+        }
+    },
+    {
+        "model": "authentication.Employee",
+        "pk": 1,
+        "fields": {
+            "first_name": "Bekzod",
+            "last_name": "Murtozayev",
+            "avatar": "users/2024-01-01.png",
+            "phone_number": "931212343",
+            "gender": "male"
+        }
+    },
+    {
+        "model": "transport_management.Route",
+        "pk": 1,
+        "fields": {
+            "start_location": 1,
+            "finish_location": 2,
+            "price": 100000,
+            "car": 1,
+            "driver": 1,
+            "departure_at": "2025-01-01T12:00:00Z"
+        }
+    }
+]
